@@ -1,4 +1,4 @@
-# Nova: Your AI Voice Assistant
+# Nova: An Voice Assistant
 
 Nova is a Python-based voice assistant that performs tasks like opening websites, playing music, providing news, and more. Powered by speech recognition, text-to-speech, and OpenAI's GPT-3.5-turbo, Nova responds intelligently to your voice commands.
 
